@@ -1,6 +1,6 @@
 # About Project
 
-Latihan membuat bot telegram menggunakan laravel 8.Project ini dibuat untuk experiment terkait apa itu ***webhook*** serta implementasi ***ngrok***. Saat ini tidak sedikit website yang menggunakan third party berupa webhook untuk komunikasi 2 arah agar dapat menerima response balik dari aplikasi lain. Response yang diterima merupakan hasil dari ***callback*** atau ***event*** ketika request yang kita kirim selesai diproses oleh aplikasi lain. Maka dari itu, terbentuklah project latihan ini. Berikut juga tercantum sumber belajarnya :
+Project ini dibuat untuk experiment terkait apa itu ***webhook*** serta implementasi ***ngrok***. Saat ini tidak sedikit website yang menggunakan third party berupa webhook untuk komunikasi 2 arah agar dapat menerima response balik dari aplikasi lain. Response yang diterima merupakan hasil dari ***callback*** atau ***event*** ketika request yang kita kirim selesai diproses oleh aplikasi lain tersebut. Maka dari itu, terbentuklah project latihan ini. Berikut juga tercantum sumber belajarnya :
 
 - [Apa itu webhook](https://www.niagahoster.co.id/blog/webhook-adalah/).
 - [Tutorial Webhook Telegram Pada Laravel Framework Menggunakan Ngrok](https://www.youtube.com/watch?v=PlAEuwjv9Hk&t).
